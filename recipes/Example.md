@@ -1,22 +1,21 @@
-# My First Receipe (Title)
+# Roast Pork Belly
 
 Serves | Prep | Cook | Difficulty
 ------ | ---- | -----| ----------
-4 | 3 | 2 | Medium
-
-### Serves
-  4
-### Prep Time
-  3 Hours
-### Cook Time
-  2 Hours
-### Difficulty
-  Easy / Medium / Hard
+4 | 4 | 2 | Medium
 
 ## Ingredients
-  * Water
-  * Salt
+  * Pork Belly 1KG (slab uniform in thickness)
+  * 2 Cups of apple cider vinegar
+  * Fennel Seed
+  * Kosher Salt
+  * Apples (Granny Smith)
+  * Onions
 
-## Directions
-  1. Example first step of preparation.
-  2. Second Step.
+## Preparation directions
+  1. Score with sharp knife on Pork Belly skin ensuring to break skin to expose the fat. Create even scores with 1cm apart from each other
+  1. Rub kosher salt generously through scoring
+
+## Cooking directions
+    1. Example first step of preparation.
+    1. Second Step.
