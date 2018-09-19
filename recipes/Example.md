@@ -1,8 +1,8 @@
 # My First Receipe (Title)
 
 Serves | Prep | Cook | Difficulty
-______ | ____ | ____ | __________
-4 | 3 hours | 2 Hours | Medium
+------ | ---- | -----| ----------
+4 | 3 | 2 | Medium
 
 ### Serves
   4
