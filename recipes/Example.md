@@ -1,13 +1,12 @@
-# Title
-  My First Receipe
+# My First Receipe (Title)
 
-## Serves
+### Serves
   4
-## Prep Time
+### Prep Time
   3 Hours
-## Cook Time
+### Cook Time
   2 Hours
-## Difficulty
+### Difficulty
   Easy / Medium / Hard
 
 ## Ingredients
