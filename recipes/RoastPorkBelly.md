@@ -1,20 +1,18 @@
-# Example Title of Recipe
+# Roast Pork Belly with Crackling
 
-Servings | Prep Time | Cook Time | Difficulty
+Servings | Prep | Cook | Difficulty
 ------ | ---- | -----| ----------
-4 People | 30 Mins | 1 Hour | Easy-Hard
+4 | 4 | 2 | Medium
 
 ## Ingredients
-### Pre-mix Ingredients E.g. Dry Rub
-  * 1 kilogram of main ingredient
-  * 2 cups of flour
-  * 1 1/2 tablespoons of sugar
-  * 2 teaspoons of nutmeg
-  * 50 grams of melted butter
-
-### Chronologically Ordered Ingredients
-  * 6 medium sized potatoes, diced into 2 cm cubes
-  *
+  * 1 Kilogram of Pork Belly (slab uniform in thickness)
+  * 2 apples, sliced into 1cm wedges (Granny Smith or cooking variety)
+  * 2 large white onions sliced into 1cm wedges
+  * 2 cups of apple cider vinegar
+  * 2 tablespoons of fennel seed
+  * 2 cups of olive oil
+  * Kosher or Flake salt
+  * Cracked pepper
 
 ## Preparation Method
 
@@ -41,10 +39,11 @@ Servings | Prep Time | Cook Time | Difficulty
 
 ## Serving Instructions
 
-  * Additional serving instructions or complimentary additions to the meal
+  * Slice short-length ways using sharp knife and keep crackling intact
+  * Serve with Apple Sauce, gravy and/or mustard
 
 ## Storage
 
-  * Storage / re-preparation instructions in case of leftovers
-  * E.g. Store in air-tight container for up to 5 days
-  * Can be re-heated in microwave
+  * Crackling will not be as crunchy the next day
+  * Pork belly can be re-heated or consumed cold
+  * Complimented in a sandwich
