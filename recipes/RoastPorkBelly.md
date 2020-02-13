@@ -1,8 +1,8 @@
 # Roast Pork Belly with Crackling
 
-Servings | Prep | Cook | Difficulty
+Servings | Prep Time | Cook Time | Difficulty
 ------ | ---- | -----| ----------
-4 | 4 | 2 | Medium
+4 | 4 Hours | 2 Hours | Medium
 
 ## Ingredients
   * 1 Kilogram of Pork Belly (slab uniform in thickness)
@@ -29,12 +29,13 @@ Servings | Prep | Cook | Difficulty
 
 ## Cooking Method
 
-  1. Pre-heat oven to 180C
+  1. Pre-heat oven to 200C
   1. Sprinkle 2 pinches of sea salt onto baking tray
   1. Place pork belly skin-up onto bed of sea salt
   1. Lightly brush skin with olive oil
-  1. Place baking tray into oven and cook for 45 minutes to 1 hours
-  1. Pork Belly is ready when skin is golden brown and bubbled up
+  1. Place baking tray into oven and cook for 10-30 minutes until crackling has formed
+  1. Pork Crackling is ready when skin is golden brown and bubbled up, reduce heat to 120C
+  1. Cook for additional 60 minutes
   1. Remove baking tray from oven and allow pork belly to rest for 5 minutes
 
 ## Serving Instructions
