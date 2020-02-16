@@ -6,6 +6,7 @@ Servings | Prep Time | Cook Time | Difficulty
 
 ### Foreword
 This recipe requires usage of a Smoker and an Oven to cook the ribs. It utilises the 3-2-1 method of smoking, re-hydrating and final glazing to get the ribs to a tender but not fall-off-the-bone finish.
+The Smoking portion of this recipe does require you to understand how your smoker functions and maintains heat as all smokers are not the same in terms of heat source and maintaining temperature. I would highly recommend using a thermometer and an automated BBQ temperature controller.
 
 ## Ingredients & Tools
 ### Tools & Utensils Required
