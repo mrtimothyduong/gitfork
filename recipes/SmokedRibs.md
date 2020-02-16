@@ -2,7 +2,7 @@
 
 Servings | Prep Time | Cook Time | Difficulty
 ------ | ---- | -----| ----------
-4 People | 30 Mins | 5 Hour | Intermediate
+4 People | 30 Mins | 5 Hours | Intermediate
 
 ### Foreword
 This recipe requires usage of a Smoker and an Oven to cook the ribs. It utilises the 3-2-1 method of smoking, re-hydrating and final glazing to get the ribs to a tender but not fall-off-the-bone finish.
