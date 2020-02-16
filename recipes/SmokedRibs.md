@@ -31,7 +31,7 @@ The Smoking portion of this recipe does require you to understand how your smoke
   * Baste Sauce: `Lillie's Q Carolina Barbeque Sauce`
   * Primary Glaze: `Sweet Baby Rays BBQ Sauce`
   
-## Preparation Method (24 Hours min before cooking)
+## Preparation Method (Min 1 Day before Cooking)
 
   1. Prepare Dry Rub Mixture or use Pre-Mix Dry Rub
   1. Rub Dry Rub mixture into Pork Ribs covering both meat side and bone side evenly
