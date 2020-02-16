@@ -50,9 +50,10 @@ The Smoking portion of this recipe does require you to understand how your smoke
 ## Smoke & Steam (2 Hours)
 This step is to re-introduce moisture to the ribs and re-hydrate them.
 
-  1. Open Smoker and wrap ribs into Aluminium Foil, sprinkling sugar onto Meat Side and slightly expose the ends
+  1. Remove the Ribs from the Smoker
+  1. Wrap ribs into Aluminium Foil, sprinkling sugar onto Meat Side and slightly expose the ends
   1. Using syringe, Inject Beef Stock (Or optionally, Bourbon) into foil rib packets
-  1. Place back into Smoker, meat side up and allow Ribs to continue to cook for another 2 hours at 107C (225)
+  1. Place Ribs (Meat Side Up) back into Smoker and allow Ribs to continue to cook for another 2 hours at 107C (225)
   
 ## Glaze and Final Cook (1 Hour)
 
