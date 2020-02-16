@@ -1,7 +1,7 @@
 # Texas Style BBQ Dry Rub
 
 Servings | Prep Time | Difficulty
------- | ---- | -----| ----------
+----- | ---- | ----
 1-2 KG of Meat | 15 Mins | Easy
 
 ## Ingredients
