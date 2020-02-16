@@ -7,6 +7,6 @@ Gitfork is concept of recipe documentation that uses GitHub as a repository for 
 This is more of a fun project to share with friends and family more than anything else. Learning markup, metadata, formatting and most of all sharing the passion of food.
 
 ## Contributing
-    Fork it
-    Add your resource to README.md and questions.json
-    Create new Pull Request
+1. Fork it
+2. Add your resource to `README.md` and `questions.json`
+3. Create new Pull Request
