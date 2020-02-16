@@ -4,6 +4,9 @@ Servings | Prep Time | Cook Time | Difficulty
 ------ | ---- | -----| ----------
 4 People | 30 Mins | 5 Hour | Intermediate
 
+### Foreword
+This recipe requires usage of a Smoker and an Oven to cook the ribs. It utilises the 3-2-1 method of smoking, re-hydrating and final glazing to get the ribs to a tender but not fall-off-the-bone finish.
+
 ## Ingredients & Tools
 ### Tools & Utensils Required
   * Smoker (I used a Weber Kettle 47cm)
@@ -12,6 +15,7 @@ Servings | Prep Time | Cook Time | Difficulty
   * Woodchips (Apple & Hickory)
   * Aluminium Foil
   * Meat Syringe
+  * Oven Tray
   * Convection Oven
   * Basting Brush
   
@@ -23,16 +27,17 @@ Servings | Prep Time | Cook Time | Difficulty
   * 1/2 cup of Beef Stock
   * Optional: Bourbon
   * Brown Sugar
-  * Baste Sauce: Lillie's Q Carolina Barbeque Sauce
-  * Primary Glaze: Sweet Baby Rays BBQ Sauce
+  * Baste Sauce: `Lillie's Q Carolina Barbeque Sauce`
+  * Primary Glaze: `Sweet Baby Rays BBQ Sauce`
   
 ## Preparation Method (24 Hours min before cooking)
 
   1. Prepare Dry Rub Mixture or use Pre-Mix Dry Rub
-  1. Rub `Dry Rub` mixture into Pork Ribs covering both meat side and bone side evenly
+  1. Rub Dry Rub mixture into Pork Ribs covering both meat side and bone side evenly
   1. Place Ribs into container and cover in cling wrap or airtight cover and place into fridge overnight for at least 24 hours
 
 ## Cooking Method
+
 ### Primary Smoke (3 Hours)
 
   1. Remove Ribs from the fridge 1 hour before cooking to allow ribs to get to room temperature
@@ -42,6 +47,7 @@ Servings | Prep Time | Cook Time | Difficulty
   1. Cover and allow Ribs to Smoke for 3 Hours at 107C (225F)
   
 ## Smoke & Steam (2 Hours)
+This step is to re-introduce moisture to the ribs and re-hydrate them.
 
   1. Open Smoker and wrap ribs into Aluminium Foil, sprinkling sugar onto Meat Side and slightly expose the ends
   1. Using syringe, Inject Beef Stock (Or optionally, Bourbon) into foil rib packets
@@ -52,7 +58,7 @@ Servings | Prep Time | Cook Time | Difficulty
   1. Pre-Heat Convection Oven to 180C (355F)
   1. Remove ribs from Smoker
   1. Remove the foil covers / packets and place Ribs into Shallow Oven Tray
-  1. Using basting brush, brush the Ribs on both sides with a `Baste Sauce` and then place into Oven
+  1. Using basting brush, brush the Ribs on both sides with a `Baste Sauce` and then place into Convection Oven at 180C (355F)
   1. Baste Meat Side every 10-15 minutes using `Baste Sauce`, glaze should be thick and caramelise but not burnt
   1. Remove Ribs after 45-60 minutes after 3 layers of baste have been applied
   1. Allow Ribs to cool for 5 minutes
