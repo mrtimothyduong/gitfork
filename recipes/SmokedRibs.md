@@ -32,7 +32,7 @@ Servings | Prep Time | Cook Time | Difficulty
   1. Rub `Dry Rub` mixture into Pork Ribs covering both meat side and bone side evenly
   1. Place Ribs into container and cover in cling wrap or airtight cover and place into fridge overnight for at least 24 hours
 
-##Cooking Method
+## Cooking Method
 ### Primary Smoke (3 Hours)
 
   1. Remove Ribs from the fridge 1 hour before cooking to allow ribs to get to room temperature
