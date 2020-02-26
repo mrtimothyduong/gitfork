@@ -10,7 +10,7 @@ Servings | Prep Time | Cook Time | Difficulty
   * 1/2 tsp baking power
   * 1/2 tsp salt
   * 175 g unsalted butter
-  * 300 g granulated sugar
+  * 300 g granulated sugar [retry with only 200 G]
   * 60 mL of freshly made espresso
   * 3 large eggs
   * 75 g dutch processed cocoa powder
