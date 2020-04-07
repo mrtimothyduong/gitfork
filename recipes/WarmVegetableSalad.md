@@ -7,18 +7,18 @@ Servings | Prep Time | Cook Time | Difficulty
 ## Ingredients
 
   * 1 Large Sweet Potato
-  * 1/2 a Butternut or Kent Pumpkin
+  * 1/2 Pumpkin (Butternut/Kent)
   * 3 Large Carrots
-  * 1 Brown Onion
+  * 1-2 Brown onion
   * Optional: 10-20 Brussel Sprouts
   * 4-5 cloves of Garlic, peeled & crushed
   * Olive Oil
-  * Herbs en provence or Italian Herb Mix (Dried rosemary, oregano, thyme, basil, mint, tarragon, majoram & savory)
-  * Chilli Flakes
+  * Herbs en provence or Italian herb mix (Dried rosemary, oregano, thyme, basil, mint, tarragon, majoram & savory)
+  * Chilli flakes
   * Salt & Pepper
-  * 1/8 cup of roasted pinenuts
-  * 100g of baby spinach leaves, washed
-  * Balsamic Glaze
+  * 1/8 cup of Roasted pinenuts
+  * 100g of baby spinach leaves
+  * Balsamic glaze
   * Optional: Ricotta cheese
 
 ## Preparation Method
