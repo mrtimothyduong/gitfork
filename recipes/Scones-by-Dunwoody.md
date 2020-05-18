@@ -5,7 +5,6 @@ Servings | Prep Time | Cook Time | Difficulty
 2 People | 15 Mins | 10 Mins | Easy
 
 ## Ingredients
-### Pre-mix Ingredients E.g. Dry Rub
   * 3 cups of Self raising flour
   * 1 cup of Single Cream
   * 1 cup of Lemonade
