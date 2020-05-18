@@ -1,4 +1,4 @@
-# Dunwoody Scones
+# Scones
 
 Servings | Prep Time | Cook Time | Difficulty
 ------ | ---- | -----| ----------
