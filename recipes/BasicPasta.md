@@ -12,18 +12,18 @@ Servings | Prep Time | Cook Time | Difficulty
   * 1 teaspoon (5g) extra virgin olive oil
 
 ## Preparation Method
-  * Mix together 480g of flour & salt
-  * Place mixture onto large working surface, creating a roundwell to fit in 5 eggs
+  * Place in flour and salt into a mixing bowl and whisk briefly
+  * Place mixture onto large work surface, creating a roundwell to fit in 5 eggs
   * Crack 5 whole eggs into the well and add olive oil
   * Using a fork, beat eggs and fold in some flour over time
   * Stop once the eggs and flour are completely combined, dough mixture should look a little shaggy
-  * Start kneading shaggy dough ball on counter top for up to 10 minutes or until the dough ball is smooth and feels like plasticine
+  * Lightly flour work surface and start kneading shaggy dough ball on counter top for up to 10 minutes or until the dough ball is smooth and feels like plasticine
       * If dough is too dry, place 1/2 teaspoon of water and knead for 1-2 minutes
       * Do not over knead the dough, it will become too tough
   * Place dough ball into a lightly oiled bowl and cover with sarin wrap tightly. Proof for 30 minutes
   * Take out dough ball and using bench scrapper, cut into 4 equal pieces. Return 3 to the bowl and cover
-  * Using rolling pin, roll to 8-10mm (1/2 inch) thickness
-  * Take through 0 thickness of Atlas rollers 3 times, then fold like a brochure then in half
+  * Using rolling pin, roll the pasta to 8-12mm (1/2 inch) thickness
+  * Take through 0 thickness of pasta roller 3 times, then fold like a tri-fold brochure, then in half
   * Take through 0 thickness of flat pasta roller 3 times again
   * Decrease thickness of pasta roller by 1 and take pasta through 3 times per thickness, lightly dust pasta if it’s too moist/sticky
   * Stop at desired thickness or when you can just see your hands through the pasta
